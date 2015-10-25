@@ -25,6 +25,7 @@ int drink[10][3] =
 };
 //贪心算法-----
 //暂时没有做完哇sigh
+//待补
 int main()
 {
     return 0;
