@@ -5,6 +5,8 @@
     > Created Time: 2015-11-18 15:43:00
  ************************************************************************/
 
+
+//unfinished
 #include<iostream>
 using namespace std;
 int Calc1(int N)
